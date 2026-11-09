@@ -35,10 +35,8 @@ O projeto foi desenvolvido com o objetivo de aplicar conceitos fundamentais de l
 4. Execute o arquivo Python principal:
 
 ```bash
-python nome_do_arquivo.py
+python codigo_boletim/boletim.py
 ```
-
-Substitua `nome_do_arquivo.py` pelo nome real do arquivo principal localizado na pasta `codigo_boletim`.
 
 ## 📋 Funcionamento
 
